@@ -46,5 +46,19 @@ public class Operadores {
         boolean isPlaystationFiveBuyable = contaCorrente > pricePlaystation || contaPoupanca > pricePlaystation;
 
         System.out.println(isPlaystationFiveBuyable);
+
+        // =   +=   -=   *=   /=   %=
+        double bonus = 1800;
+        bonus = bonus + 1000;
+        System.out.println(bonus);
+
+        //
+        int contador = 0;
+        contador += 1;
+        contador++;
+        contador--;
+        ++contador;
+        --contador;
+        System.out.println(contador);
     }
 }
