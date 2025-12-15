@@ -6,11 +6,11 @@ public class Olamundo {
     }
 }
 
-// https://github.com/Jvictorbicker
-
-/* git init
+/*
+git init
 git add .
 git commit -m ""
 git branch -M main
 git remote add origin https://github.com/Jvictorbicker/first-code-in-java
-git push -u origin main */
+git push -u origin main
+*/
